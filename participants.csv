@@ -1,0 +1,7 @@
+participant_id,condition,rt_ms
+P01,control,412
+P02,experimental,378
+P03,control,445
+P04,experimental,390
+P05,control,421
+P06,experimental,355

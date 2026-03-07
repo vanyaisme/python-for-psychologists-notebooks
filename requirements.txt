@@ -1,0 +1,30 @@
+# Python SICT Y2 — Jupyter Notebooks
+# ──────────────────────────────────────────────────────────────────────────────
+# Setup:
+#   python -m venv .venv
+#   source .venv/bin/activate        # macOS/Linux
+#   .venv\Scripts\activate           # Windows
+#   pip install -r requirements.txt
+#   jupyter lab
+# ──────────────────────────────────────────────────────────────────────────────
+
+# Jupyter
+jupyterlab==4.4.1
+ipykernel==7.2.0
+nbformat==5.10.4
+nbconvert==7.17.0
+
+# Scientific / data
+numpy==2.4.2
+pandas==3.0.1
+matplotlib==3.10.8
+scipy==1.17.1
+
+# Internals (pinned for stability)
+tornado==6.5.4
+pyzmq==27.1.0
+traitlets==5.14.3
+packaging==26.0
+
+# Async utilities
+nest_asyncio==1.6.0

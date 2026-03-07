@@ -1,0 +1,20 @@
+{
+  "participants": [
+    {
+      "id": "P01",
+      "condition": "control",
+      "rt_ms": {
+        "trial_1": 412,
+        "trial_2": 398
+      }
+    },
+    {
+      "id": "P02",
+      "condition": "experimental",
+      "rt_ms": {
+        "trial_1": 378,
+        "trial_2": 360
+      }
+    }
+  ]
+}
