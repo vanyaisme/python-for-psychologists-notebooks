@@ -1,8 +1,8 @@
-# Complete Python Guide for Psychology Students
+# Complete Python Guide for Psychology Students in Jupyter Notebooks
 
-A Python course built for psychology students and researchers with no prior programming experience. Follow in JupyterLab from first `print()` to data analysis with pandas and matplotlib.
+A Python course built for psychology students and researchers with no prior programming experience from `print()` to data analysis with pandas and matplotlib.
 
-This repo is the offline to the web page at **[peer-support.live](https://peer-support.live)**.
+This repo is the companion to the running web page at **[peer-support.live](https://peer-support.live)**.
 
 ---
 
