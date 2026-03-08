@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Jupyter internals
+.ipynb_checkpoints/
+.jupyter_ystore.db
+.jupyterlab-audit.log
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Generated output files that notebooks recreate
+notebooks/output.txt
+notebooks/file.txt
+notebooks/open.txt
+notebooks/my_text_file.txt
